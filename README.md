@@ -1,32 +1,8 @@
-# SAMSOL - UAS RPL
-Selamat datang di repositori UAS RPL SAMSOL!
+README Project SAMSOL
+This project, named SAMSOL (Samsat Online), incorporates HTML, JavaScript, and CSS programming languages. SAMSOL aims to create an online service to assist users in managing documentation processes efficiently.
 
-## Deskripsi Proyek
-Proyek ini merupakan bagian dari Ujian Akhir Semester (UAS) pada mata kuliah Rekayasa Perangkat Lunak (RPL). Tujuan utama proyek ini adalah untuk mengembangkan sistem perpanjangan STNK kendaraan secara online. Sistem ini mencakup fitur-fitur seperti pengisian data pemohon, unggah dokumen-dokumen, dan pengiriman data ke server untuk proses lebih lanjut.
+Description:
+SAMSOL is designed to streamline administrative tasks related to documentation and paperwork typically handled by Samsat offices. By leveraging web technologies such as HTML for structure, JavaScript for dynamic functionalities, and CSS for styling, SAMSOL offers a user-friendly interface accessible via web browsers.
 
-## Komponen Utama
-- **HTML**: Halaman-halaman utama untuk penggunaan aplikasi perpanjangan STNK.
-- **CSS**: Gaya tampilan untuk meningkatkan pengalaman pengguna.
-- **JavaScript**: Logika interaktif untuk memvalidasi input pengguna dan mengatur perilaku halaman.
-
-## Struktur Direktori
-- `/docs`: Dokumen-dokumen terkait proyek, seperti spesifikasi dan panduan.
-- `/src`: Kode sumber utama aplikasi.
-  - `/css`: Berkas-berkas stylesheet.
-  - `/js`: Berkas-berkas JavaScript.
-
-## Panduan Kerja Sama
-1. **Kolaborasi**: Pastikan untuk terus berkomunikasi dan berkolaborasi dengan tim.
-2. **Pembagian Tugas**: Sebisa mungkin, jadwalkan pertemuan untuk mendiskusikan pembagian tugas dan jangka waktu penyelesaian.
-3. **Review Kode**: Setiap anggota tim bertanggung jawab untuk melakukan review kode sesama anggota tim.
-4. **Dokumentasi**: Selalu update dokumentasi dan README untuk menjaga kelancaran proses pengembangan.
-
-## Himbauan
-Kami menyarankan kepada seluruh anggota tim AGARF untuk:
-- **Mengembangkan Backend**: Buatlah backend untuk mengelola data pengguna dan dokumen yang diunggah.
-- **Database**: Desain dan implementasikan database MySQL untuk menyimpan data yang diperlukan.
-- **Kerjasama**: Bekerjasamalah dengan baik antara tim frontend dan backend untuk memastikan integrasi yang baik.
-
-Dengan kerjasama yang baik, kita dapat menyelesaikan proyek ini dengan cepat dan tepat waktu. Mari bersama-sama berusaha keras untuk mencapai hasil terbaik.
-
-Terima kasih atas partisipasi dan kerjasama Anda semua!
+Call to Team:
+We invite developers proficient in backend programming and database management to join our team. Together, we will build the backend infrastructure of SAMSOL, ensuring robust functionality and seamless data handling. Let's simplify administrative processes and enhance user convenience with SAMSOL!
